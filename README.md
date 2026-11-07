@@ -333,7 +333,7 @@ For a sound experiment:
 Google Colab is a convenient first environment:
 
 1.  Open the repository:
-    https://github.com/bmbharathh/Text_summarization_telugu
+    https://github.com/venkat-pavan-bandaru/Text_summarization_telugu
 2.  Download the Transformer notebook.
 3.  Open https://colab.research.google.com/ and upload the notebook.
 4.  Upload the dataset CSV or clone the repository in the Colab runtime.
